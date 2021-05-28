@@ -1,6 +1,6 @@
 {
   "name": "@cognite/potree-core",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Potree wrapper for threejs applications",
   "main": "dist/bundle.js",
   "repository": {
@@ -24,7 +24,7 @@
   "author": "Tentone",
   "license": "MIT",
   "peerDependencies": {
-    "three": "^0.125.0"
+    "three": "^0.128.0"
   },
   "dependencies": {},
   "devDependencies": {
